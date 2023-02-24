@@ -1,0 +1,16 @@
+Here are the list of valid commands: PLACE MOVE LEFT RIGHT REPORT ROBOT
+For usage please refer to Readme.md file.
+Enter any other text to exit.
+Enter command: right
+No active robot to turn right.
+Enter command: left
+No active robot to turn left.
+Enter command: move
+No active robot to move.
+Enter command: report
+There are no robots on the table.
+Enter command: robot 1
+No robot is available on the table.
+Enter command: dlsf
+Command entered is not in the list of valid commands.
+Exiting the program.

@@ -1,0 +1,18 @@
+Here are the list of valid commands: PLACE MOVE LEFT RIGHT REPORT ROBOT
+For usage please refer to Readme.md file.
+Enter any other text to exit.
+Enter command: place 0,0,north
+Enter command: move
+Enter command: move
+Enter command: move
+Enter command: move
+Enter command: move
+Enter command: move
+Cannot move further, Robot will fall off the table.
+Enter command: report
+There is only one robot on the table.
+Robot 1 is currently active
+Robot 1 position : 0, 5 and direction : NORTH
+Enter command:
+Command entered is not in the list of valid commands.
+Exiting the program.
