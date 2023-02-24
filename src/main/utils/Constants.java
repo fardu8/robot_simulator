@@ -20,5 +20,5 @@ public class Constants {
     public static final String INVALID_COMMAND_MESSAGE = "Command entered is not in the list of valid commands.\nExiting the program.";
     public static final String COMMAND_LIST_MESSAGE_LINE_1 = "Here are the list of valid commands: ";
     public static final String COMMAND_LIST_MESSAGE_LINE_2 = "\nFor usage please refer to Readme.md file.\nEnter any other text to exit.";
-    public static final String ENTER_COMMAND_MESSAGE = "Please enter a command: ";
+    public static final String ENTER_COMMAND_MESSAGE = "Enter command: ";
 }
